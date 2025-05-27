@@ -9,9 +9,14 @@ Another explanation
 * Bullet Points 2
 * Bullet Points 3 
 
-## 📦 Inhalt
+## 📦 Content
 
-- 🧪 Testfunktionen
-- ⚙️ Experimentelle Features
-- 🔧 Konfiguration zum Rumspielen
+- 🧪 testfunctions
+- ⚙️ experimential features
+- 🔧 configurations to play with
 
+```
+print("Hello World!");
+print("Hello World!");
+print("Hello World!");
+```
