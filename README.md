@@ -17,9 +17,8 @@ Another explanation
 
 
 ```
-print("Hello World!");
-print("Hello World!");
-print("Hello World!");
+print("Hello Konstans!");
+print("Hello Sun!");
 print("Hello World!");
 ```
 
